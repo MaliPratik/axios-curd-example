@@ -49,7 +49,6 @@ function Users() {
   }
 
   function submit(e) {
-
     e.preventDefault();
     let validated = true;
     let FirstNameMessage = "";
